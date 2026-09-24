@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Govindnaik-123/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Govindnaik-123/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Govindnaik-123/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
