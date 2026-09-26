@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Govindnaik-123/LeetCode/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/Govindnaik-123/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Govindnaik-123/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0169-majority-element) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
