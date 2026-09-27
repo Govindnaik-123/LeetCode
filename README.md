@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
