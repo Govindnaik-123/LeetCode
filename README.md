@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Govindnaik-123/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Govindnaik-123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
