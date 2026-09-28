@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Govindnaik-123/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Govindnaik-123/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
