@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govindnaik-123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0169-majority-element) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govindnaik-123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
