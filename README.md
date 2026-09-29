@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Govindnaik-123/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Govindnaik-123/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Govindnaik-123/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Govindnaik-123/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Govindnaik-123/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
