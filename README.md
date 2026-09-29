@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Govindnaik-123/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Govindnaik-123/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Govindnaik-123/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
