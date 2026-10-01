@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Govindnaik-123/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3931-check-adjacent-digit-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Number Theory
 |  |
 | ------- |
