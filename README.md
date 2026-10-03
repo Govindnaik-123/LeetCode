@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [4006-count-valid-prefixes](https://github.com/Govindnaik-123/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3931-check-adjacent-digit-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
+| [4006-count-valid-prefixes](https://github.com/Govindnaik-123/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Number Theory
 |  |
 | ------- |
