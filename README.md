@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Govindnaik-123/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Govindnaik-123/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Govindnaik-123/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Govindnaik-123/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Govindnaik-123/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
