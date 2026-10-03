@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Govindnaik-123/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Govindnaik-123/LeetCode/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Govindnaik-123/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Govindnaik-123/LeetCode/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
