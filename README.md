@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Govindnaik-123/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Govindnaik-123/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Govindnaik-123/LeetCode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Govindnaik-123/LeetCode/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Govindnaik-123/LeetCode/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govindnaik-123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
