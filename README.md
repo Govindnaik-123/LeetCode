@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Govindnaik-123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Pigeonhole Principle
 |  |
