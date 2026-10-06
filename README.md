@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2670-find-the-distinct-difference-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Govindnaik-123/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Govindnaik-123/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Govindnaik-123/LeetCode/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2670-find-the-distinct-difference-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
