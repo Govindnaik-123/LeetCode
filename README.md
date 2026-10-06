@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Govindnaik-123/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Govindnaik-123/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [4006-count-valid-prefixes](https://github.com/Govindnaik-123/LeetCode/tree/master/4006-count-valid-prefixes) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Bit Manipulation
 |  |
 | ------- |
