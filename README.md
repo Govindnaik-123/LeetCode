@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1200-minimum-absolute-difference](https://github.com/Govindnaik-123/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Govindnaik-123/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Govindnaik-123/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Govindnaik-123/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Govindnaik-123/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Govindnaik-123/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
