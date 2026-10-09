@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/Govindnaik-123/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Govindnaik-123/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Govindnaik-123/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Govindnaik-123/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -286,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Govindnaik-123/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
