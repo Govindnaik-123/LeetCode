@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Govindnaik-123/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Govindnaik-123/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Govindnaik-123/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Govindnaik-123/LeetCode/tree/master/2951-find-the-peaks) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Govindnaik-123/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Govindnaik-123/LeetCode/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
