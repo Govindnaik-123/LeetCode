@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Govindnaik-123/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3701-compute-alternating-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Govindnaik-123/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Govindnaik-123/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
 ## Heap (Priority Queue)
 |  |
