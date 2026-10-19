@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Govindnaik-123/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Govindnaik-123/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Govindnaik-123/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Govindnaik-123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
