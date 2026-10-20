@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Govindnaik-123/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Govindnaik-123/LeetCode/tree/master/0383-ransom-note) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
@@ -355,4 +357,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
