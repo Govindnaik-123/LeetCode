@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Govindnaik-123/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Govindnaik-123/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Govindnaik-123/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
 ## Heap (Priority Queue)
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
 | ------- |
