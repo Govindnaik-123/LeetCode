@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Govindnaik-123/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Govindnaik-123/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govindnaik-123/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/Govindnaik-123/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Govindnaik-123/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
