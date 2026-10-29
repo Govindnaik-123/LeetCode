@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Govindnaik-123/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/Govindnaik-123/LeetCode/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/Govindnaik-123/LeetCode/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Govindnaik-123/LeetCode/tree/master/0682-baseball-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Govindnaik-123/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govindnaik-123/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Govindnaik-123/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Govindnaik-123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Govindnaik-123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
