@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Govindnaik-123/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govindnaik-123/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/Govindnaik-123/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0989-add-to-array-form-of-integer](https://github.com/Govindnaik-123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Govindnaik-123/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Govindnaik-123/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Govindnaik-123/LeetCode/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/Govindnaik-123/LeetCode/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Govindnaik-123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/Govindnaik-123/LeetCode/tree/master/1200-minimum-absolute-difference) |
