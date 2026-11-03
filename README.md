@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Govindnaik-123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govindnaik-123/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Govindnaik-123/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Govindnaik-123/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Govindnaik-123/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govindnaik-123/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
