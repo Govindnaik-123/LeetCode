@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Govindnaik-123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Govindnaik-123/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/Govindnaik-123/LeetCode/tree/master/2032-two-out-of-three) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Govindnaik-123/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Pigeonhole Principle
 |  |
