@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Govindnaik-123/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Govindnaik-123/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Govindnaik-123/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Govindnaik-123/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Govindnaik-123/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Govindnaik-123/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Govindnaik-123/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
