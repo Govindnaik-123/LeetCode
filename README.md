@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Govindnaik-123/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Govindnaik-123/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Govindnaik-123/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Govindnaik-123/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Govindnaik-123/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Govindnaik-123/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Govindnaik-123/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Govindnaik-123/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
