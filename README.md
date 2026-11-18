@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Govindnaik-123/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Govindnaik-123/LeetCode/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Govindnaik-123/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Govindnaik-123/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Govindnaik-123/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Govindnaik-123/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
