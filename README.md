@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Govindnaik-123/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Govindnaik-123/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3921-score-validator](https://github.com/Govindnaik-123/LeetCode/tree/master/3921-score-validator) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Govindnaik-123/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Govindnaik-123/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Govindnaik-123/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4006-count-valid-prefixes](https://github.com/Govindnaik-123/LeetCode/tree/master/4006-count-valid-prefixes) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Govindnaik-123/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Bit Manipulation
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Govindnaik-123/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Govindnaik-123/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Govindnaik-123/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Govindnaik-123/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -451,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Govindnaik-123/LeetCode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Govindnaik-123/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Newton's Method
 |  |
 | ------- |
