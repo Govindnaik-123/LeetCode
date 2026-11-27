@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Govindnaik-123/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Govindnaik-123/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Govindnaik-123/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Govindnaik-123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Govindnaik-123/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govindnaik-123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Govindnaik-123/LeetCode/tree/master/0383-ransom-note) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Govindnaik-123/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Govindnaik-123/LeetCode/tree/master/0136-single-number) |
 | [0477-total-hamming-distance](https://github.com/Govindnaik-123/LeetCode/tree/master/0477-total-hamming-distance) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Govindnaik-123/LeetCode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Govindnaik-123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Govindnaik-123/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govindnaik-123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Govindnaik-123/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
