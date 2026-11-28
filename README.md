@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Govindnaik-123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Govindnaik-123/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1408-string-matching-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Govindnaik-123/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Govindnaik-123/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Govindnaik-123/LeetCode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Govindnaik-123/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Govindnaik-123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Govindnaik-123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Govindnaik-123/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govindnaik-123/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Govindnaik-123/LeetCode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
